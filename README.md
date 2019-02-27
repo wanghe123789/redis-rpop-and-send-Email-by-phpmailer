@@ -1,1 +1,1 @@
-# redis-rpop-and-send-Email-by-phpmailer
+# send-Email-by-phpmailer
